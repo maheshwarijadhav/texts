@@ -1,4 +1,4 @@
-** TEXT SUMMARISATION**
+TEXT SUMMARISATION 
 
 
 This project focuses on building and evaluating AI-based text summarization models. Our goal was to develop a solution capable of effectively condensing text while retaining essential information. To achieve this, we implemented three models: an encoder-decoder without attention, an encoder-decoder with attention, and a transformer model.
